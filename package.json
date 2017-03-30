@@ -1,0 +1,23 @@
+{
+  "name": "brewbook-server",
+  "version": "0.0.1",
+  "description": "Express server and web frontend for tracking homebrewed beers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brewbook/server.git"
+  },
+  "keywords": [
+    "homebrew",
+    "beer"
+  ],
+  "author": "Mike Dettmer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brewbook/server/issues"
+  },
+  "homepage": "https://github.com/brewbook/server#readme"
+}
