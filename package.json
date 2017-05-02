@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/brewbook/server/issues"
   },
-  "homepage": "https://github.com/brewbook/server#readme"
+  "homepage": "https://github.com/brewbook/server#readme",
+  "dependencies": {
+    "mongoose": "^4.9.2"
+  }
 }
